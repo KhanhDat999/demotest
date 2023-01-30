@@ -25,17 +25,17 @@ function Mobile() {
                             </div>
                             <div className='flex justify-between font-semibold text-[13px] leading-8 mt-[14px]'>
                                 <div >
-                                    <div >. MECHANICAL PENCILS
+                                    <div  >. MECHANICAL PENCILS
                                     </div>
-                                    <div>
+                                    <div  >
                                         . ARCHITECT'S CHOICE
                                     </div>
                                 </div>
                                 <div>
-                                    <div>
+                                    <div  >
                                         . MECHANICAL PENCILS
                                     </div>
-                                    <div>
+                                    <div  >
                                         . EXECUTIVE PENCILS
                                     </div>
                                 </div>
@@ -97,10 +97,7 @@ function Mobile() {
                         </div>
                     </div>
                 </div>
-
                 <div >
-
-
 
                     <div className='w-[390px] h-[100px] mt-[10px]  border-[#F4F4F4] border-[12px] rounded-[18px] '>
                         <div className=' h-[80px] rounded-[18px] pt-[13px] flex'>
